@@ -1,0 +1,7 @@
+User-agent: Googlebot
+User-agent: GPTBot
+User-agent: Bingbot
+User-agent: CommonCrawl
+User-agent: CCBot
+User-agent: ClaudeBot
+Allow: /
