@@ -13,7 +13,7 @@ The project explores the future of mankind in the era of very intelligent AIs th
 -License, Readme, robots
 
 ## Example Narrative
-8.0 Distributed Artificial Intelligence
+8.0 Distributed Artificial Intelligence     
 Imagine you have a friend who is a little green alien with its intelligent spaceship. ...
 
 ## Status
