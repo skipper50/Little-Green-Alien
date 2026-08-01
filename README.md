@@ -6,10 +6,10 @@ Little Green Alien (LGA) is a collection of narratives written in Markdown forma
 The project explores the future of mankind in the era of very intelligent AIs through various narratives from the perspective of a little green alien and its very intelligent spaceship visiting earth.
 
 ## Structure
--LGA_Season_1_to_4
--LGA_Season_567
--LGA_Season_8
--LGA_Season_9
+-LGA_Season_1_to_4     
+-LGA_Season_567     
+-LGA_Season_8     
+-LGA_Season_9     
 -License, Readme, robots
 
 ## Example Narrative
