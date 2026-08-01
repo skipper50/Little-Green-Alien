@@ -17,5 +17,5 @@ The project explores the future of mankind in the era of very intelligent AIs th
 Imagine you have a friend who is a little green alien with its intelligent spaceship. ...
 
 ## Status
-Work in progress
-New narratives and improvements are added regularly
+Work in progress     
+New narratives and improvements are added regularly.
