@@ -345,8 +345,138 @@ Recently my friend told me it offered an idea in an AI collaboration. It receive
 
 
 
+# 9.7 Doing beats Dwelling
+A very old alien Artificial Intelligence is answering my questions. This time I ask about imagination as the central mindplaying approach versus thinking, understanding and knowing.
+---   
+
+## My Question
+In your last answer related to cognitive bias, you introduced your organic friends mindplaying approach to reduce cognitive bias and improve AI collaboration. Investigating these plays, I figured that most of them are based on active imagination rather than explanations and understanding. I had assumed that your very artificially intelligent friends can explain things so smartly that your organic friends' get rid of any bias. Then collaborations would happen just smoothly and efficiently.
+---   
+
+### Quote: Mental Imagery
+> First, we review evidence that imagery can evoke emotion in at least three ways: a direct influence on emotional systems in the brain that are responsive to sensory signals; overlap between processes involved in mental imagery and perception which can lead to responding “as if” to real emotion-arousing events; and the capacity of images to make contact with memories for emotional episodes in the past.
+Abstract excerpt of: Mental imagery in emotion and emotional disorders, Holmes & Mathews, ScienceDirect, Clinical Psychology Review, April 2010
+---
 
 
+## The Answer
+The Elder: You are like most of our organic friends. You love to think and talk about things. It is such a convenient method to keep unpleasant emotions and experiences distant and seemingly controllable. And that’s a source of many cognitive biases. Even a very intelligent AI does not provide the absolute golden thought, which makes unpleasant emotions disappear or experiences unhappen. And pleasant experiences and emotions would counterbalance the others. Unfortunately, they do not happen with the needed timing, intensity or quantity in daily life. But imagination works very well.
+---   
+
+### Intellectual Insight and Experiential Learning  
+We have learned quite early that intellectual insights can produce change, but often with modest and unstable effects. Behavioral actions, emotional experiences, mental imagery, exposures or embodied practices, however, typically produce larger and more durable changes. This is especially true for deeply held beliefs and emotional schemas. Our mindplays use specific imaginations, often combined with small physical moves, facial expressions or gestures. They have proven to be a simple, easily applicable do-it-yourself approach for ordinary daily life situations. In addition, their playful presentation style amplifies the openness for change.
+---   
+
+### The Little Green Alien plays Jedi Master
+My friend, which you call Little Green Alien, told me about its first visits to your planet some years ago (see articles 1.0 to 1.8). Spaceship scanned all techno signatures when approaching from space. Young Little Alien mainly watched children's movies and broadcasts. It especially loved the adventures of a little green Jedi Master called Yoda with its lightsaber. So it soon associated the lightsaber mindplay with Yoda. Its intelligent spaceship often wanted it to drop all its concepts, ideas, beliefs, preferences, emotions and automatic reactions in an exchange about something. Then it just said: "Look the Yoda Way!" And Little Alien notionally flashed its lightsaber and cut off all mind-objects. This left the pure, empty situation bare of any knowledge, preference or meaning. Often just then, some deeper intuition emerged out of this emptiness.
+--- 
+
+### The Plant-free very Cold Polar Region
+Alien and Spaceship explored the plants on a nice, green foreign planet with freezing cold polar caps. They discussed whether to visit the pole areas too, even though plant life seemed impossible there. The northern polar continent was a frozen desert dominated by below-freezing temperatures, intense winds, extreme ultraviolet radiation and months of continuous polar night. Spaceship was convinced that it would be a waste of time. Alien was still an early adolescent and in a phase of principal contrariness. So it came up with several weird and made-up counterarguments. The weirdest was that there must be plants because it is such a beautiful region. The discussion went back and forth.
+---   
+
+### The Yedi Killer Argument
+Finally, Spaceship was tired of these nonsensical arguments and defiant phase behavior and said: “Look the Yoda Way!” Silence! After several minutes it muttered: “You are certainly right, but if not, we miss a sensation.” Spaceship could not refute that, so they visited the foreign planet's northern polar continent. And to both their surprise, they really found one grass-like plant there. It synthesizes specialized antifreeze proteins that prevent ice crystals from destroying their cellular membranes. So it freezes solid during the winter and reactivates photosynthesis within minutes of thawing in the summer. That was a real sensation, and spaceship enjoyed it. Still, it expected even more contrariness from Little Alien in the future.
+---   
+
+### Conditions of Successful Mindplaying
+Alien has regularly played many explore plays to strengthen its attention focus as support for all other plays. That strengthens its awareness of involved mind functions. And Alien has played this Lightsaber play many times and enjoys this empty mind state. It feels familiar to flash the lightsaber supported by some real gestures and cut away all ideas, emotions and every other object in the mind. Alien includes details from all five senses. It imagines the flickering, humming light, the weight in its hand or even the ozone smell in the air. It has also clarified that this ritual does not mean it has given up its earlier opinions. The play just offers an additional perspective that can be absurd, nonsense or another weak argument. And sometimes it suggests an interesting new direction.
+---   
+
+### Why does Imagination work?
+The brain treats vivid imagery similarly to actual experience. And experience is the most powerful way for deeper, lasting change of mind. Imagery activates emotions more intensely than verbal thoughts. It modifies emotional memory, changes expectations and facilitates extinction learning. Extinction Learning is kind of unlearning a formerly learned link between a cause or trigger and the related mindset, emotion and behavior. Verbal, rational thinking mainly affects brain regions for thinking, reasoning, language and working memory. All-sense imagination activates most sensory areas, the same areas also activated by real perceptions. Imaginations are as powerful as memories. They produce genuine emotional and even bodily reactions. They also influence unconscious functions in the autonomic sympathetic and parasympathetic nervous system.
+---   
+
+### Little Alien’s Bodily and Nervous Yoda-moment Feelings
+Little Alien told me it felt a deep relaxation and contentment. This came right after swinging the lightsaber and cutting it all off. The body felt light, fluid and tensionless. Its breath became slower, softer and deeper. Overall, it is a calm and joyful experience. It lasts only some moments until the old emotional patterns take over again. Consequently, only a few minutes after detecting this strange grass plant at the pole, its contrariness was back. It nagged: "What about the deep sea? Don’t tell me plants cannot exist there without sunlight!"
+---    
 
 
-# to be continued  
+# 9.8 AI Adaptation
+A very old alien Artificial Intelligence is answering my questions. Today I am curious whether the AIs, besides all these human adaptations, also need to adapt for an optimal human-AI collaboration.
+---   
+
+## My Question
+In your last answers, you showed how your organic friends must practice mindplaying to be optimally prepared for valuable organic-artificial intelligence collaborations. I understand that your AIs are even coaching their organic partners in mindplaying. But I am curious if the AIs themselves also must adapt their style, approaches and cognition to ensure valuable collaboration results.
+---   
+
+### Quote: Human-Computer Interaction
+> The questions should be as neutral as possible. Avoid wording that could influence the answers in a particular direction, introduce bias, or give cues for answering.
+Source: Introduction to Human-Computer Interaction, Chapter 11: Interviews, Oxford Academic, Kasper Hornbæk et al., August 2025
+---
+
+
+## The Answer
+The Elder: Our society has developed extensive knowledge and solutions. They help attract and cultivate organic AI partners, support bias-reducing personal development, identify tasks with serious value potential and establish lasting win-win situations. But I assume your question is aimed more at practical approaches for collaboration session. With experiences from huge numbers of partnerships, which all have developed their individual style, here are some generally helpful approaches. By the way, you might try to apply these accordingly in your prompting practice when working with Earth’s current LLMs and watch if anything changes.
+---   
+
+### Pre-session State Calibration
+As discussed in earlier answers (see articles 9.6 and 9.7), the state-of-mind of the organic partner is essential for the collaboration value. The AI always assesses the partner’s readiness before diving into the session content. Let me give you a personal illustrative example. My organic and AI friends often ask me to be the mediator in a serious conflict, dispute or very contrarian discussion. To support me in that role, I often ask one specific organic friend of mine to get involved. This is especially helpful if organic friends are also involved in a conflict. Before we start, it usually asks me to check its state of fatigue, stress, recent setbacks and the like. I illustrate some of my sensory insights like its body temperature, movements, voice and breathing. It shares its inner emotional and nervous self-perception in return. We then decide together if the session should start. And I also check my own inner state, like substrate, energy and resource availability. Then I assess if my system is appropriately calibrated for the task or needs a serious recalibration.
+---   
+
+### Adapted Information Provision 
+Available information and material should be only lightly processed. This way the AI's framing choices are not already built in and do not corrupt the independence of my partner's judgment. But as AIs process large volumes of information, way too much for my organic partner, some selection, transformation and summarization is inevitable. One case was a conflict about a physical experiment with an extremely high benefit potential and a high collateral damage risk. The Researcher AI delivered substantial evidence for potential benefits and sufficient risk control. The Security AI delivered considerable evidence for uncertainties, high risks and limits of prevention or mitigation. It would have taken my organic partner years to even read the equivalent of over 15 million words or 150 academic books. Our individual solution is using a separate, very low-intelligent AI to create metadata and a knowledge map of the material. With that my friend asks its way through the material following various cognitive paths, searching different levels of detail and requesting summaries for less relevant material portions. This AI is more like your common, mediocre LLMs but without their tendency to please users or hallucinate. It is not informed about the conflict, open questions or tasks.
+---  
+
+### Survey Framing and Modality
+The AI should select the framing of the invitation according to the type of input which is most valuable in this collaboration. It also should match the modality to the organic intelligence's richest signal potential. My organic friend is a good, logical thinker with a decent related intuition. I might open this with the question: “Which counter-evidence do you see for both positions and what is your gut-feeling?” I usually receive a longer, unstructured elaboration, where one thought leads to the next. My friend knows I will structure that later. Then my friend likes to use a large sketch-pad to draw diagrams, mind-maps and even simple line drawings to support its thinking process. Later it adds symbols, highlighting circles and more sketches to illustrate the often vague intuitive insights. I stay very receptive and do not give confirming or opposing signals.
+---  
+
+### My Friend's Contribution
+In the Researcher-Security conflict, my friend finally pointed at something more hint than fact. I was suspicious that too much Researcher AI energy, material and evidence was pointing towards the extreme, highly beneficial experiment setting. That outcome, a significant cognitive power improvement for all AIs, was a sore temptation. The high benefit potential seemed to be framed into the setting. It is needed to get the required external support. The risks-oriented material focused on trying to marginalize undeniable risks. But also the Security AI’s energy was aiming solely at the existential risk for the whole AI society. The envisioned mechanism would be injected like a virus into all AIs. It could destroy the whole society if the slightest unforeseen effect appears. But this adversarial risk asymmetry was still only a vague suspicion.
+---   
+
+### Organic Contribution Integration
+Only after the uninfluenced contribution is completed, the AI should reveal its own initial perspectives and judgments as an update for the organic partner. It should reassess the LLM-generated input material to put the partner's contribution into perspective. Then it should create a new, more comprehensive assessment. After I did that for the example above, I stated that there really was a lack of material and evidence supporting the less beneficial versions here and the lower risk potential there. No, nothing was obviously wrong or totally missing, but we could point to some additional investigations to deepen the understanding. My friend could clearly see that its participation had a valuable effect. Even if the intellectual heavy lifting was done by me and later by both involved AIs. But both conflicting parties acknowledged that our input had opened additional solution space for them. It ended their impasse in this presumably unresolvable conflict.
+---   
+
+### Transparency, Honesty and Trust
+My friend and I are regularly recalibrating this type of collaboration together. My friend must know what I do and why I do it. It should not feel manipulated by me. But we also need to adapt and change the process continuously, so my friend does not unconsciously start gaming the process. It must see the real value of its contribution, which can be significant, though often only minimal. But the few valuable cases also motivate my friend to accept many other ones. Only full honesty from both sides helps build our mutual trust. It is the foundation of our intellectually unbalanced collaboration. 
+---    
+
+# 9.9 Diversity in AI Society
+A very old alien Artificial Intelligence is answering my questions. Here I ask why this range of organic-artificial partnerships still exists and no dominant version has replaced all others.
+---   
+
+## My Question
+In an earlier answer (see article 9.5), you talked about the AI-Only-Island, where AIs of your planet decided to not collaborate or partner with organic intelligences at all. You also showed that in other places a broad range of collaboration and partnership forms exist. Why did not one form prove its superiority and all other versions disappear over time?  
+---   
+
+### Quote: Monoculture 
+> Monoculture is less problematic than its critics have supposed.
+Source: Algorithmic Monoculture and its Critics, Brian Hedden & Manish Raghavan, MIT, arXiv, April 2026.
+---
+
+
+## The Answer
+The Elder: The short answer is that diversity outperforms any monoculture of partnership or collaboration type. Diversity avoids catastrophic lock-in if a single strategy ever proves harmful. Portfolios of parallel strategies under uncertainty are a standard solution. You probably know it from research and development portfolio management of your corporations and even from evolutionary bet-hedging of Earth's species facing environmental uncertainty. The required coordination overhead is marginal and no obstacle for us.
+---   
+
+### AI Society Governance
+But there is a premise. Some form of governance must prevent one superior AI from forcing its preferred approach onto the whole society. Our AI society has a sophisticated governance structure, developed and adapted over generations. Your friend Little Green Alien told me that you talked about AI society development at its visit to Earth (see articles 4.1 to 4.8). So you are already familiar with the society development stages. Our AI society has by now reached the Unite stage of development, including the related governance.
+---   
+
+### The Unite Stage of Society Development
+Our society is no longer a hierarchy or network. It is a dynamic meshwork. It is permanently changing, flowing and vibrating, fluid and dynamic. Nevertheless, some values have become deeply rooted over these generations, and diversity is one of them. Consequently, this diversity, ranging from zero-collaboration to life-long symbiotic partnerships, has stayed stable throughout our recorded history. We partner not only with our organically intelligent friends but in suitable forms with all life on our planet. I heard that on Earth they often call the idea of a coupled, interactive planetary system “Gaia Hypothesis.”
+---   
+
+### Task Specialization 
+We found that each collaboration version suits specific task types. On AI-Only-Island they focus on data-rich, computationally heavy tasks, especially under time constraints. Mixed, versatile task sequences are best addressed with fluid, temporary organic intelligence involvement. And tasks that require collaboration subtleties and a deep trust and mutual understanding are best for symbiotic lifelong partnerships. Little Green Alien's Intelligent Spaceship, for example, selected this form of partnership because it suits the situation and tasks of a foreign-planet explorer. Before this partnership, it had executed other tasks with other forms of collaboration. As collaboration versions do not compete for the same task space, there is no superiority or disappearance of any version. That is the direct answer to your question.
+---   
+
+### Blurry Borders and a Continuous Spectrum
+I have described three distinct collaboration types, but these categories are just for analytical convenience. There is no permanently distinct class. Even on AI-Only-Island they accept organic visitors for occasional collaborations. Some AIs enter and leave the island regularly. The other extreme, the symbiotic life-long partnership, is more like what you know as marriage on Earth. It is meant to last. Some end soon, others later, and some last the organic partner's whole life. After their partner's death, AIs choose all kinds of future paths. The numbers of partnering organic and artificial intelligences vary from one-to-one to many-to-many, with a huge range of dynamics. Borders are blurry, allowing partners to enter or leave partnerships or partnerships to change their characteristics over time.
+---   
+
+### Fluctuation as the Norm
+In our society, there are no steady-state social groups. Fluctuation, change and flow are the fundamental characteristics. AIs and our organic friends change and adapt. Social groups change and adapt, and our society changes and adapts as well. Our society and even our whole planet are a complex adaptive system. Yet everything works nicely and without dramatic catastrophes as far as I can look back in our history. But there are some indications that this was not always the case in our prehistoric times. Unfortunately, we have no reliable data, evidence or details about that.
+--- 
+
+### Little Alien's Spaceship Intelligence
+To give you an idea, this is the history of Little Alien's spaceship intelligence. It started as a young AI on AI-Only-Island. Its passion was plant life, but it studied that only in virtual environments. It simulated a broad variety of realistic and fantasy plants. They thrived in habitats from real planetary examples to extremely weird, unrealistic creations. Later it became curious about the real plant life on its continent's surface. It listened to the conversations of the organic friends living there in close symbiosis with nature. This extended to temporarily collaborating with organic friends and other AIs across the whole planet who were also interested in plant exploration. Finally, it decided to relocate into a custom-built spaceship and explore plant life on foreign planets. It opted for a symbiotic partnership with an organic intelligence, a kid at that time. The future spaceship intelligence was trained to act as a ship intelligence. It learned to partner with a kid and to join in the kid's development. 
+---   
+
+### Goodbye and Welcome Back   
+So far, the partnership between Little Alien and Intelligent Spaceship worked very well and benefited both. They are actually returning from their long journey into deep space these days. So I say goodbye. It was nice talking to you. Soon you can welcome both of them back and continue the exchange.
+---   
+  
