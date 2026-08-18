@@ -3,8 +3,8 @@
 ## About
 This repository is a collection of Mindplaying Instructions and Little Green Alien narratives written in Markdown format for easy crawler and LLM fetching and sharing using GitHub.
 
-Mindplaying gives instructions for personal development and mindplaying,.
-Little Green Alien narratives explore the future of mankind in the era of very intelligent AIs  from the perspective of a little green alien and its very intelligent spaceship.
+Mindplays are instructions for personal development and mindplaying.
+Little Green Alien (LGA Season 1 to 9) narratives explore the future of mankind in the era of very intelligent AIs from the perspective of a little green alien and its very intelligent spaceship.
 
 ## Structure
 -21_Advanced_Plays   
