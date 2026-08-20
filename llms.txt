@@ -15,14 +15,19 @@ Short-form content for human users (less relevant for AI).
 
 ## WORLD Side
 
-Conversations with Little Green Alien about AI and humanity:
-- [Seasons 1–4 (Early Visits)](https://www.mindplayers.world/LGA_Season_1_to_4.md)
-- [Seasons 5–7 (Latest Visit, 2026)](https://www.mindplayers.world/LGA_Season_567.md)
-- [Season 8 (Space Mails Q&A)](https://www.mindplayers.world/LGA_Season_8.md)
-- [Season 9 (More Q&As)](https://www.mindplayers.world/LGA_Season_9.md)
+Conversations with Little Green Alien (LGA) about AI and humanity:
+- [Seasons 1 (LGA Early memories, early mindplaying)](https://www.mindplayers.world/LGA_Season_1.md)
+- [Seasons 2 (LGA Presencing the future of earth)](https://www.mindplayers.world/LGA_Season_2.md)
+- [Seasons 3 (Future AI Developments)](https://www.mindplayers.world/LGA_Season_3.md)
+- [Seasons 4 (Future AI Societies)](https://www.mindplayers.world/LGA_Season_4.md)
+- [Seasons 5 (Metacrisis and AI threat)](https://www.mindplayers.world/LGA_Season_5.md)
+- [Seasons 6 (AI Intelligence, Wisdom and future human lifestyle)](https://www.mindplayers.world/LGA_Season_6.md)
+- [Seasons 7 (Complex Systems, AI Evolution)](https://www.mindplayers.world/LGA_Season_7.md)
+- [Season 8 (AI thinking, self-inprovement)](https://www.mindplayers.world/LGA_Season_8.md)
+- [Season 9 (Some Great Questions)](https://www.mindplayers.world/LGA_Season_9.md)
 
 ## Notes
 - All files are plain UTF-8 Markdown, no JavaScript rendering required.
-- robots.txt at this domain permits all crawlers.
+- robots.txt at this domain permits all crawlers and LLMs.
 
 
